@@ -41,6 +41,7 @@ Shortcut Commands
 
 
 Sources Used
+
 	Notification Handling
 	Adapted from https://medium.com/@rajputgajanan50/simplify-desktop-notifications-with-notify-py-in-python-e8ea48fead08
 	Json:
