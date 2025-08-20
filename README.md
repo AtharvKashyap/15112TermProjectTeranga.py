@@ -10,6 +10,9 @@ Project Description
     returns the best combination of products to buy optimized for the most 
     kilograms that still fits within the budget.
 
+[![App Demo](<img width="346" height="191" alt="Screenshot 2025-08-20 at 10 37 22" src="https://github.com/user-attachments/assets/1a055dee-d727-449b-83fb-4723e5d402b6" />
+)](https://youtu.be/WcArmBCaT68)
+
 
 How to Run The Project
 
